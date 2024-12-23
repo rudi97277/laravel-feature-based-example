@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Features{{additionalDir}};
+
+class {{name}}Repository
+{
+    public function __construct(
+        {{name}} $model
+    )
+    {
+        //
+    }
+}
